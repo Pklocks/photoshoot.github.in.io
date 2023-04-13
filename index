@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html><head>
+    <style>
+        h1{
+            color: aliceblue;
+            text-align: center;
+            font-style: oblique;
+        }
+        h2{
+            text-align: right;
+            color: aliceblue;
+            font-style: oblique;
+        }
+        th{
+            border: 3px;
+            width: 15px;
+        }
+        h4{
+            text-align: center;
+        }
+    </style>
+</head>
+    <body style="background-color: rgb(56, 110, 131);">
+        <h1>your logo</h1>
+        <h2>and a fancy slogan</h2>
+        <a href="https://www.google.com">photoshoot</a>         <a href="#">sweet tabs</a>        <a href="#">Navigation manue</a> 
+        <table style="background-color: rgb(47, 73, 84); table-layout: unset;border: 15px;">
+            <tr>
+                <th colspan="2" style=" font-size: 45px;color: aliceblue; font-style: oblique;"><u>PHOTOSHOOT EFFECT<u><hr></th>
+            </tr>
+            <tr>
+                <td><p style="color: rgb(189, 194, 54);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus incidunt autem vero, 
+                    illum dicta deleniti eos atque laborum iusto libero voluptatem, 
+                    nesciunt tenetur qui voluptatibus quibusdam soluta ut velit? Labore.psum dolor sit amet consectetur adipisicing elit. Necessitatibus incidunt autem vero, 
+                    illum dicta deleniti eos atque laborum iusto libero voluptatem,   explicabo reprehenderit aperiam eius est quos ab sequi unde sint sed atque, delectus, maiores blanditiis. 
+                    nesciunt tenetur qui voluptatibus quibusdam soluta ut velit? Labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur enim  
+                    explicabo reprehenderit aperiam eius est quos ab sequi unde sint sed atque, delectus, maiores blanditiis.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur enim  
+                     .</p></td>
+                <td rowspan="2"><img src="https://tutorialzine.com/media/2010/02/641.jpg" alt=""></td>
+            </tr>
+            <tr>
+                <td><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque commodi totam maxime ab quisquam corr
+                    upti vero molestias ullam molestiae perferendispsum dolor sit amet consectetur adipisicing elit. Necessitatibus incidunt autem vero, 
+                    nesciunt tenetur qui voluptatibus quibusdam soluta ut velit? Labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur enim  
+                     explicabo reprehenderit aperiam eius est quos ab sequi unde sint sed atque, delectus, maiores blanditiis.  libero tempora itaque suscipit magnam dolor, tenetur ips
+                     repudiandae quam ex necessitatibus! Aspernatur obcaecati labore odio eos cumque modi cupiditate eum corrupti iure exercitationem, perspiciatis, harum sapiente?</p></td>
+            </tr>
+        </table> <hr>
+        <h4>@copyright 2017- yoursight.com</h4>   
+    </body>
+</html>
+        
